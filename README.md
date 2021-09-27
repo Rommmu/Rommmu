@@ -17,7 +17,7 @@ Instagram - @_somethingspicy_
 </p><br>
 <p align="center">
 👋 Hi, I’m @Rommmu <br>
-👀 I’m interested in game programming{nowdays Ren'Py), hacking or something <br>
+👀 I’m interested in game programming (nowdays Ren'Py), hacking or something <br>
 🌱 I’m currently learning web programming introduction, C programming, Python, Django <br>
 💞️ I’m looking to collaborate on Nothing <br>
 </p>
