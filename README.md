@@ -13,7 +13,7 @@
 </p><br>
 <h4 align="center">📫 How to reach me</h3>
 <p align="center">
-Instagram - @_somethingspicy_
+Instagram - @rommm_bin
 </p><br>
 <p align="center">
 👋 Hi, I’m @Rommmu <br>
