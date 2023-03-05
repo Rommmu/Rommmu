@@ -1,4 +1,4 @@
-### 🔥 Hello, I'm YoungBeen Joo a.k.a Rommmu !
+### 🔥 Hello, I'm Rommmu !
 
 
 Good day!
