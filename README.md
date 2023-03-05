@@ -1,5 +1,3 @@
-<br>
-
 ### 🔥 Hello, I'm YoungBeen Joo a.k.a Rommmu !
 
 
@@ -61,9 +59,6 @@ If you want to contact me, please leave me a message!
 </a>
 <a href="https://instagram.com/rommm_been" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/JiyeonL91200402" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://velog.io/@rommm" target="_blank">
 <img src=https://img.shields.io/badge/velog-%20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
