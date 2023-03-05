@@ -3,7 +3,9 @@
 
 #### "Good afternoon, Good evening, and Good night."
 
-I am Developer from South Korea 🇰🇷. I am interested in Backend Develop and Java, Spring, Django, etc. I enjoy watching Netflix! 
+I am Developer from South Korea 🇰🇷. I am interested in Backend part. Especially Java, Spring, Django, etc.
+
+I enjoy watching Netflix, and I love watching Musical 🎤.
 
 If you want to contact me, please leave me a message!
 
