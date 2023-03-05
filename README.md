@@ -1,7 +1,7 @@
 ### 🔥 Hello, I'm Rommmu !
 
 
-Good day!
+#### "Good afternoon, Good evening, and Good night."
 
 I am Developer from South Korea 🇰🇷. I am interested in Backend Develop and Java, Spring, Django, etc. I enjoy watching Netflix! 
 
