@@ -24,7 +24,7 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
+- 🔭 I’m currently working on [LIKELION SKHU 11th](https://github.com/LikeLion-11th-SKHU) and [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
 
 - 🌱 I’m currently learning **Spring, Database, Django, Python, etc**
 
