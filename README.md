@@ -12,7 +12,9 @@ If you want to contact me, please leave me a message!
 <br>
 
 ### 💫  My Experience
-- **LIKELION SKHU 11th** - Staff at LIKELION 11th *(Dec 2022 ~ )*
+- **LIKELION SKHU 12th** - Staff at LIKELION 12th *(Dec 2022 ~ )*
+- **LIKELION SKHU 11th** - Staff at LIKELION 11th *(Dec 2022 ~ nov 2023)*
+  * <b>'MoYeonHada'(모연하다) backend developer</b>
 - **MapinSkhu** - Backend Developer *(Jul 2022 ~ )*
   * <b>MapinSkhu</b> - 제 13회 IT경진대회 대상 수상 🏆
 - **LIKELION SKHU 10th** - Staff at LIKELION 10th *(Dec 2021 - Nov 2022)*
