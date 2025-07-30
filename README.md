@@ -2,7 +2,8 @@
 
 
 ### 💫  My Experience
-- **💡SKHUTHON 1th** - Operations Team at SKHUTHON 1th *(Dec 2023 ~ Jun 2024)*
+- **💡SKHUTHON 1th** - Central Operations Team at SKHUTHON 1th *(Dec 2023 ~ Jun 2024)*
+   * <b>Strategy and Finance Officer</b>
 - **LIKELION SKHU 12th** - Backend Staff at LIKELION 12th *(Dec 2023 ~ nov 2024)*
   * <b>'Plantication'(플랜티케이션) backend developer</b>
 - **LIKELION SKHU 11th** - Backend Staff at LIKELION 11th *(Dec 2022 ~ nov 2023)*
