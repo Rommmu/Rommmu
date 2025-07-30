@@ -1,13 +1,15 @@
-### 🔥 Hello, I'm rommmu !
+## 🔥 Hello, I'm rommmu !
 
 
 ### 💫  My Experience
-- **LIKELION SKHU 12th** - Staff at LIKELION 12th *(Dec 2022 ~ )*
-- **LIKELION SKHU 11th** - Staff at LIKELION 11th *(Dec 2022 ~ nov 2023)*
-  * <b>'MoYeonHada'(모연하다) backend developer</b>
+- **💡SKHUTHON 1th** - Operations Team at SKHUTHON 1th *(Dec 2023 ~ Jun 2024)*
+- **LIKELION SKHU 12th** - Backend Staff at LIKELION 12th *(Dec 2023 ~ nov 2024)*
+  * <b>'Plantication'(플랜티케이션) backend developer</b>
+- **LIKELION SKHU 11th** - Backend Staff at LIKELION 11th *(Dec 2022 ~ nov 2023)*
+  * <b>'MoYeonHada'(모연하다) backend developer</b> - 멋쟁이사자처럼 11기 아이디어톤 성공회대 대표 출전
 - **MapinSkhu** - Backend Developer *(Jul 2022 ~ )*
   * <b>MapinSkhu</b> - 제 13회 IT경진대회 대상 수상 🏆
-- **LIKELION SKHU 10th** - Staff at LIKELION 10th *(Dec 2021 - Nov 2022)*
+- **LIKELION SKHU 10th** - Backend Staff at LIKELION 10th *(Dec 2021 - Nov 2022)*
   * <b>'what is your lion?'(너의 사자는?) backend developer</b>
   * <b>'ssgtudy'(쓱터디) backend developer </b> - 멋쟁이사자처럼 10기 해커톤 성공회대 대표 출전 & 제 13회 IT경진대회 장려상 수상 🏆
 - **LIKELION SKHU 9th** - little Lion at LIKELION SKHU 9th *(March 2021 - Dec 2021)*
@@ -49,7 +51,7 @@
 <a href="https://github.com/Rommmu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rommm_been" target="_blank">
+<a href="https://instagram.com/rlidoko" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://velog.io/@rommm" target="_blank">
@@ -58,7 +60,7 @@
 
 <br> <br>
 
-### Github Stats  
+<!--### Github Stats  
 <table><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rommmu&show_icons=true&hide_border=true&layout=compact" align="left" style="width: 100%" alt="rommmu" />
@@ -69,4 +71,4 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> -->
