@@ -18,7 +18,7 @@
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [LIKELION SKHU 12th](https://github.com/LikeLion-12th-SKHU) and [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
+- 🔭 I’m currently working on [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
 
 - 🌱 I’m currently learning **Spring, Database, Django, Python, etc**
 
