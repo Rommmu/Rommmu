@@ -1,15 +1,5 @@
-### 🔥 Hello, I'm Rommmu !
+### 🔥 Hello, I'm rommmu !
 
-
-#### "Good afternoon, Good evening, and Good night."
-
-I am Developer from South Korea 🇰🇷. I am interested in Backend part. Especially Java, Spring, Django, etc.
-
-I enjoy watching Netflix, and I love watching Musical 🎤.
-
-If you want to contact me, please leave me a message!
-
-<br>
 
 ### 💫  My Experience
 - **LIKELION SKHU 12th** - Staff at LIKELION 12th *(Dec 2022 ~ )*
@@ -28,13 +18,11 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [LIKELION SKHU 11th](https://github.com/LikeLion-11th-SKHU) and [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
+- 🔭 I’m currently working on [LIKELION SKHU 12th](https://github.com/LikeLion-12th-SKHU) and [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2)
 
 - 🌱 I’m currently learning **Spring, Database, Django, Python, etc**
 
 - 📝 I regularly write articles on [Velog](https://velog.io/@rommm).  
-
-- 📫 How to reach me **tonty1222@icloud.com or instagram@rommm_been**
 
 <br>
 
